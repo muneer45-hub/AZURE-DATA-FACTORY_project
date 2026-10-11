@@ -1,0 +1,15 @@
+{
+	"name": "projectadvance",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f720d03-ce7d-4b08-b9f7-f3c5f1e9af0b",
+		"tenantId": "4aa24275-129a-4289-9af2-dfb6f60d0bd3"
+	}
+}
